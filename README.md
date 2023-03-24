@@ -1,5 +1,5 @@
 # DrillSize-Classification
-This is sideproject  about drew size classification extract from video
+This is sideproject  about drill size classification extract from video
 ## Introduction
 This a personal sideproject to practice a extracted image classifcation from video.
 Content included two machine learning method to finish this task. 
