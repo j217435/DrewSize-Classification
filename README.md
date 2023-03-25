@@ -17,9 +17,11 @@ Random Forest is a traditioinal mahcine learning and could be used in a classifi
 #### Random Forest Result
 
 The performance of the RF model has an accuracy of 0.62 on the training dataset and 0.59 on the validation dataset. The precision, recall, and f1-score are listed in the following table. From the table, we can see that class 0 and class 5 have abnormal precision and recall. We need to check back the dataset or try different preprocessing method to improve the model performance. 
+
 ![image](https://github.com/j217435/DrillSize-Classification/blob/040d49b442a811180d53ae3584b6a9aa444ad401/Image/Screen%20Shot%202023-03-24%20at%204.58.37%20PM.png)
 
 ## Example
 
 I implement a predictoutput.exe for testing cases in the command line. Input the image folder path, and you will output the image class and a table for entire folder. The evaluation method and predict exe are written in code ‘RF_train.py’ and ‘PredictOutput.py.’
+
 ![image](https://github.com/j217435/DrillSize-Classification/blob/040d49b442a811180d53ae3584b6a9aa444ad401/Image/Screen%20Shot%202023-03-24%20at%204.46.27%20PM.png)
